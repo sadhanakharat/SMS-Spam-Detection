@@ -61,7 +61,7 @@ These metrics indicate the model's effectiveness in detecting spam, with a good 
 For questions, suggestions, or collaboration, feel free to reach out:
 
 - **Email**: Kharatsadhana22@example.com
-- **GitHub**: [YourUsername](https://github.com/sadhanakharat)
+- **GitHub**: [sadhanakharat](https://github.com/sadhanakharat)
 
 ---
 
