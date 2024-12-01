@@ -63,11 +63,9 @@ For questions, suggestions, or collaboration, feel free to reach out:
 - **Email**: Kharatsadhana22@example.com
 - **GitHub**: [sadhanakharat](https://github.com/sadhanakharat)
 
----
 
-## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
 
 
 
